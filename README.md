@@ -8,5 +8,5 @@ Me and my colleagues have joined to create an AI startup that deploys sensors to
 
 ## Data
 In Downloads – pNEUMA | open-traffic (epfl.ch) you can find a pNEUMA data 
--pNEUMA is an open large-scale dataset of naturalistic trajectories of half a million vehicles that have been collected by a one-of-a-kind experiment by a swarm of drones in the congested downtown area of Athens, Greece. Each file for a single (area, date, time) is ~87MB data.  
+-pNEUMA is an open large-scale dataset of naturalistic trajectories of half a million vehicles that have been collected by a one-of-a-kind experiment by a swarm of drones in the congested downtown area of Athens, Greece. Each file for a single (area, date, time) is 87MB data.  
 
