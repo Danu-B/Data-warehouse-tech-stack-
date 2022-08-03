@@ -1,5 +1,5 @@
 # Data-warehouse-tech-stack-
-# Data-warehouse-tech-stack
+
 ## About the project
 Me and my colleagues have joined to create an AI startup that deploys sensors to businesses, collects data from all activities in a business - people’s interaction, traffic flows, smart appliances installed in a company. Our startup helps organisations obtain critical intelligence based on public and private data they collect and organise. 
 - A city traffic department wants to collect traffic data using swarm UAVs (drones) from a number of locations in the city and use the data collected for improving traffic flow in the city and for a number of other undisclosed projects. Our startup is responsible for creating a scalable data warehouse that will host the vehicle trajectory data extracted by analysing footage taken by swarm drones and static roadside cameras. 
